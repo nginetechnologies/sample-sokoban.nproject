@@ -1,0 +1,356 @@
+{
+    "guid": "c2d621bd-8a28-c96c-00f2-fa6b0662f618",
+    "source": "../SC_Sokoban.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e267b009-ce46-8b03-d219-f0438c6cf120",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Sokoban"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2caf78c9-8e5e-931c-04e6-409f66a485f1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Brown"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "92ae67de-bd72-96d0-aacd-69a8549ad6c2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "80104239-7cd0-3f1f-1ca1-c8f926d8443c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Grey"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0c3565f6-cdd2-9641-d645-a975caca4efc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "88e49ebc-afe3-be0e-2d66-973423dd3cb1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a1ea41e4-9f2f-6281-d0a5-3d0fa6ab05eb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "56c24c75-e9bc-83d7-8d83-9c63321cebf0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Brick Red Grout"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6681fd9f-f00c-ee8c-0320-18fcd5c62339"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9d27d9a1-dc86-635f-6db6-cdc9966b6541",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin Bright"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d7987b18-7114-22f9-05dd-3af1e9e58f8f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "783a9ed5-e172-df95-8de8-f8a7e77111b9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin Dark"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dd276c05-5b05-6b6b-0b10-159695ebe989"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8367c0c2-d480-0cc5-fc7d-f02974d6b6ea",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "21f0dfbf-4fa6-3478-98f7-9b9d27d92444"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3dbcfc9f-17dd-d1c2-358f-1d498b24a315",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Blue Damaged"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c9d843b2-b66e-b8f3-8497-0219d91af133"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "56a46b78-5eae-79f0-c287-960126ec5602",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Brown"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "414a2b55-86a1-f6d0-5d2c-902973b80fbe"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e94bf190-2061-9258-518b-55a8bd176554",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Brown Damaged"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c87e034e-82ee-bb76-c6f5-69397560c615"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "355b8dc3-9d0a-c55c-da8d-ac3f065c1430",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a01861ac-7a5d-aff5-510a-0b0f9e45128e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "880a6361-5982-1b63-96bd-b0d816730d46",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Green Damaged"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "27500a94-32fd-982c-a946-6567f0fa0e35"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2854ba80-2af1-52ed-c300-8d481dabe794",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Grey"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "83c371e6-1c04-6c57-4f68-319fab3f9ac3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ff41027c-90a9-f2a7-2fd8-421125e456ad",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Grey Damaged"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "28a16412-acd3-fb26-2340-2ef3f9e8a456"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "718e8a4e-ca8c-2f16-c754-b20a7c1c4ade",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6fa27c31-0dd7-017c-8e13-6ded2a0cc5d8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0b990627-4770-8abd-42e6-87e20b1246cc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Red Damaged"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0ffdf111-5082-6aba-c4ec-499c8f308851"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b7ed9e59-fc2f-f1e3-2633-16b97e01596e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Brown"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e83ede9d-a627-662a-58fb-7b54711420cb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "84faba67-ef63-8031-c9b2-1e910acf2613",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e7592bdb-61a3-9730-3184-9d46f6f609e3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "94d29372-d645-4de9-a33b-78133d9c68ca",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Grey"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cfa8ca3-68a2-d704-c5ce-71ee55b90fc7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bb7f03d7-4b90-017a-91ac-a37b0b80b722",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Marker Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2e4bfc6f-e351-6bc1-33a8-845d142a0f7f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "05e0e6b6-f68e-e4ed-21cc-6708cf8caa79",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Marker Brown"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4d8f4ea0-b70b-4d93-0a09-9fad81a15cf5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c8ef7c43-363c-4bfd-ab8a-da76d94c5fbc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Marker Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "427df355-5b31-8485-49e2-ad06f04ca14d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c7fa4d03-8621-7942-0383-580d4d22dade",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Marker Grey"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "98acf41c-0aac-5bf8-dd2c-830cf5bdec67"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b6b8f85b-8519-a278-eca4-477108d635f5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Marker Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "89f55741-e13a-c271-c194-996407cf256b"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "c2d621bd-8a28-c96c-00f2-fa6b0662f618"
+    },
+    "dependencies": [
+        "92ae67de-bd72-96d0-aacd-69a8549ad6c2",
+        "0c3565f6-cdd2-9641-d645-a975caca4efc",
+        "a1ea41e4-9f2f-6281-d0a5-3d0fa6ab05eb",
+        "6681fd9f-f00c-ee8c-0320-18fcd5c62339",
+        "d7987b18-7114-22f9-05dd-3af1e9e58f8f",
+        "dd276c05-5b05-6b6b-0b10-159695ebe989",
+        "21f0dfbf-4fa6-3478-98f7-9b9d27d92444",
+        "c9d843b2-b66e-b8f3-8497-0219d91af133",
+        "414a2b55-86a1-f6d0-5d2c-902973b80fbe",
+        "c87e034e-82ee-bb76-c6f5-69397560c615",
+        "a01861ac-7a5d-aff5-510a-0b0f9e45128e",
+        "27500a94-32fd-982c-a946-6567f0fa0e35",
+        "83c371e6-1c04-6c57-4f68-319fab3f9ac3",
+        "28a16412-acd3-fb26-2340-2ef3f9e8a456",
+        "6fa27c31-0dd7-017c-8e13-6ded2a0cc5d8",
+        "0ffdf111-5082-6aba-c4ec-499c8f308851",
+        "e83ede9d-a627-662a-58fb-7b54711420cb",
+        "e7592bdb-61a3-9730-3184-9d46f6f609e3",
+        "2cfa8ca3-68a2-d704-c5ce-71ee55b90fc7",
+        "2e4bfc6f-e351-6bc1-33a8-845d142a0f7f",
+        "4d8f4ea0-b70b-4d93-0a09-9fad81a15cf5",
+        "427df355-5b31-8485-49e2-ad06f04ca14d",
+        "98acf41c-0aac-5bf8-dd2c-830cf5bdec67",
+        "89f55741-e13a-c271-c194-996407cf256b"
+    ]
+}
