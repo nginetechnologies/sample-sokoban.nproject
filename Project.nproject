@@ -1,6 +1,5 @@
 {
     "name": "Sokoban",
-    "description": "FILL ME IN",
     "guid": "e4640cf2-17a6-4b4c-8ddc-3846939121ec",
 	"database_guid": "1577070c-94c7-be33-4ecd-e1cb815314d0",
     "version": "1.0.0",
