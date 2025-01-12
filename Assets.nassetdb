@@ -4,6 +4,15 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Character/Footstep Dirt 3.audio.nasset"
     },
+    "0068b239-4e9c-409f-bdfd-bbc0db99c577": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Player_Scripts/Sokoban Boy.scene.nasset",
+        "thumbnail": "c1426163-90a9-4a40-aa60-0064af16cbdd",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
     "0138055c-90a7-fe94-b517-6d1fb841849b": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -868,14 +877,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "a01cc89f-666a-43fc-b033-f85b51bbd42d": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Sokoban 2D Platformer.scene.nasset",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
-        ]
-    },
     "a1ea41e4-9f2f-6281-d0a5-3d0fa6ab05eb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -972,6 +973,10 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/UI/UI Object Pop 1.audio.nasset"
+    },
+    "c1426163-90a9-4a40-aa60-0064af16cbdd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Thumbnails/Sokoban_Boy.scene.nasset.tex.nasset"
     },
     "c19122da-220a-7799-6ebb-152a6a462243": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
